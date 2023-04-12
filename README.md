@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 Connect with me:
 
 Languages and Tools:
-python C#  react html5 bootstrap java mongodb mysql postgresql postman git
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://dotnet.microsoft.com/en-us/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://dotnet.microsoft.com/en-us/languages/csharp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  
+
