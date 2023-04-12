@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Vered Mazor
 
 <!--
 **VeredMazor/VeredMazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me:
+
+Languages and Tools:
+python C#  react html5 bootstrap java mongodb mysql postgresql postman git
