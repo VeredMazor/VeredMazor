@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vered Mazor</h1>
-<h3 align="center">A passionate full stack web developer from Israel</h3>
+<h3 align="center">A passionate full stack developer from Israel</h3>
 
 - 🔭 I’m currently working on **Web project**
 
