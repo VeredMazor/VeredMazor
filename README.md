@@ -9,5 +9,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://dotnet.microsoft.com/en-us/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://dotnet.microsoft.com/en-us/languages/csharp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://dotnet.microsoft.com/en-us/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://dotnet.microsoft.com/en-us/languages/csharp)  [<img src='/static/img/python-logo.png' alt='python' height='40'>](https://www.python.org/)  
 
