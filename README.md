@@ -15,7 +15,9 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100001653386598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100001653386598" height="30" width="40" /></a>
 <a href="https://discord.gg/Vered Mazor#1910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vered Mazor#1910" height="30" width="40" /></a>
 </p>
-![](https://komarev.com/ghpvc/?username=your-github-VeredMazor)
+
+![](https://komarev.com/ghpvc/?VeredMazor=your-github-VeredMazor)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=VeredMazor)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
