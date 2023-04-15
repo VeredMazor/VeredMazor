@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **veredm582@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=VeredMazor)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/veredmazor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veredmazor/" height="30" width="40" /></a>
@@ -16,7 +18,7 @@
 <a href="https://discord.gg/Vered Mazor#1910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vered Mazor#1910" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=VeredMazor)
+
 
 
 
