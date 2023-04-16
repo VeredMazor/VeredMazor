@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vered Mazor</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
+<h3 align="left">About me:</h3>
+<p>My name is Vered Mazor, and I am an junior Information Systems Engineer. A B.S.c Information Systems Engineer graduate of Braude Academic College.
+Very love programing and investigating new technologies in my free time.
+</p>
+
 - 🔭 I’m currently working on **Web project**
 
 - 🌱 I’m currently learning **C# .NET**
