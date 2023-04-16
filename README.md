@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <p>My name is Vered Mazor, and I am an junior Information Systems Engineer. A B.S.c Information Systems Engineer graduate of Braude Academic College.
-Very love programing and investigating new technologies in my free time.
+Very love programing and investigating new technologies in my free time. always want to learn and implement new things.
 </p>
 
 - 🔭 I’m currently working on **Web project**
